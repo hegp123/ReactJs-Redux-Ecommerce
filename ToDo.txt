@@ -1,2 +1,5 @@
 ## instalar Redux
 $ npm install --save redux
+
+## copia las llaves del estado actual  '...'
+...state
