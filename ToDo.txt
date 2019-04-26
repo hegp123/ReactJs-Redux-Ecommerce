@@ -1,0 +1,2 @@
+## instalar Redux
+$ npm install --save redux
