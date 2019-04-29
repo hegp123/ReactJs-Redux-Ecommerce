@@ -8,5 +8,9 @@ $ npm install --save redux
 ## instalar la libreria react redux
 $ npm install --save react-redux
 
-##
-npm install json-server
+## Nos permite definir un archivo json que funciona como respuesta de un consumo rest 
+## osea simula que estuvieramos consumiendo un endpoint (backend) y nos devuelve un json, que es el archivo que definimos
+## ojo debe ser -g :  global, sino no funcoina
+## para ejecutarlos json-server -p3001 products.json
+## este seria el endpoint:  http://localhost:3001/products
+npm install -g json-server   
