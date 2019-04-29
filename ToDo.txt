@@ -14,3 +14,9 @@ $ npm install --save react-redux
 ## para ejecutarlos json-server -p3001 products.json
 ## este seria el endpoint:  http://localhost:3001/products
 npm install -g json-server   
+
+## instalar la middleware para llamados asincronos
+$ npm install --save redux-thunk
+
+## instalar la libreria para consumir servicios 
+$ npm install --save axios
