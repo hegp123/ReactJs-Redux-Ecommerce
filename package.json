@@ -1,5 +1,5 @@
 {
-  "name": "redux-example",
+  "name": "react-redux-ecommerce",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
