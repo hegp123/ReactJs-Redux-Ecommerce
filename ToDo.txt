@@ -7,3 +7,6 @@ $ npm install --save redux
 
 ## instalar la libreria react redux
 $ npm install --save react-redux
+
+##
+npm install json-server
